@@ -30,7 +30,7 @@ The system analyzes tasks using multiple weighted factors and produces:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/santhoshkumar611/Smart-Task-Analyzer
 cd Singularium_internship
 ```
 
